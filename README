@@ -1,0 +1,10 @@
+flashloader
+===========
+
+hex file download program for the smari z80 single board computer
+
+===========
+
+flashloader is an Expect program that parses an Intel hex format file and
+loads the firmware into a target board, such as the smari single board computer
+(https://github.com/chettrick/smari), by way of a custom-made programmer.
